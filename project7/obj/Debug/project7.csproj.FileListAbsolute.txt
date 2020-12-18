@@ -92,8 +92,6 @@ C:\Users\user\source\repos\project7\project7\bin\ru\Microsoft.VisualStudio.TestP
 C:\Users\user\source\repos\project7\project7\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\user\source\repos\project7\project7\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\user\source\repos\project7\project7\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\user\source\repos\project7\project7\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-C:\Users\user\source\repos\project7\project7\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
 C:\Users\user\source\repos\project7\project7\bin\project7.tests.dll
 C:\Users\user\source\repos\project7\project7\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\user\source\repos\project7\project7\bin\project7.tests.pdb
